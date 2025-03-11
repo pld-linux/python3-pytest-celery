@@ -7,7 +7,7 @@ Summary:	Shim pytest plugin to enable celery.contrib.pytest
 Summary(pl.UTF-8):	Minimalna wtyczka pytesta włączająca celery.contrib.pytest
 Name:		python-pytest-celery
 Version:	0.0.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-celery/
